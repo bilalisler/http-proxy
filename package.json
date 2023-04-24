@@ -1,0 +1,12 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "My Node.js app",
+  "main": "index.js",
+  "dependencies": {
+    "http": "*",
+    "express": "*",
+    "http-proxy": "*"
+  }
+}
+
